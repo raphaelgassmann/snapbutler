@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SnapButlerDP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SnapButlerDP/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SnapButlerDP/SnapButlerDP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SnapButlerDP/vijava5120121125.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
