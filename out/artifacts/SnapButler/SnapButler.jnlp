@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SnapButler.jnlp">
+  <information>
+    <title>SnapButler</title>
+    <vendor>Unknown</vendor>
+    <description>SnapButler</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SnapButler.jar" size="615680" download="eager" />
+    <jar href="ch/raphigassmann/snapbutler/res/lib/dom4j-1.6.1.jar" size="313898" download="eager" />
+    <jar href="ch/raphigassmann/snapbutler/res/lib/vijava5120121125.jar" size="2026252" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="ch.raphigassmann.snapbutler.Main"  name="SnapButler" />
+  <update check="background"/>
+</jnlp>
