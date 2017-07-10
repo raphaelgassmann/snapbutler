@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/SnapButlerDP/ch/teko/gassmanr/res/lib/vijava5120121125.jar!/" />
-      <root url="jar://$PROJECT_DIR$/out/production/SnapButlerDP/ch/teko/gassmanr/res/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ch/raphigassmann/snapbutler/res/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ch/raphigassmann/snapbutler/res/lib/vijava5120121125.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

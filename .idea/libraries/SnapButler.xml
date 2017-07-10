@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SnapButler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SnapButler/SnapButler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SnapButler/SnapButlerV1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
